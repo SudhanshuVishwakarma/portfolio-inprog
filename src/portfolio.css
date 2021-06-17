@@ -1,0 +1,30 @@
+.top {
+  position: fixed;
+  width: 100%;
+  z-index: 10000;
+}
+
+.content {
+  position: relative;
+  color: rgb(0, 0, 0);
+  padding: 10px 10px 10px 10px;
+}
+#nav_style {
+  background: rgba(255, 255, 255, 0);
+  padding: 10px 0px 10px 0px;
+}
+.font_apple {
+  color: rgb(49, 49, 49);
+  transition: 0.5s;
+}
+.font_apple:hover {
+  color: rgb(97, 97, 97);
+  text-decoration: none;
+  cursor: pointer;
+  font-weight:600;
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  text-align: center;
+}

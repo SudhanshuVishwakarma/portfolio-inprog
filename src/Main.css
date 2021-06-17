@@ -1,0 +1,125 @@
+* {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.main {
+  align-self: center;
+  padding: 10px 10px 10px 10px;
+}
+.main > h1 {
+  text-align: left;
+  margin-top: 350px;
+  margin-bottom: 350px;
+
+  font-family: sans-serif;
+}
+
+.font {
+  font-weight: 100;
+  font-size: 5.5rem;
+
+  padding: 10px 0px 10px 10px;
+  margin-right: 50%;
+
+  /* background-color: #000000;
+  background-image: linear-gradient(45deg, #000000, #444444);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent; */
+}
+
+.font:hover {
+  background-image: linear-gradient(45deg, #ff0000, #6b298a);
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  cursor: pointer;
+}
+/* .main_image {
+  float: right;
+  margin-right: 100px;
+  margin-top: 100px;
+}
+img {
+  border-radius: 50%;
+  height: 400px;
+  width: 410px;
+  z-index: -1;
+} */
+
+/* .anime_line1 {
+  padding: 5px 5px 5px 5px;
+  background-color: #03045e;
+  width: 100%;
+}
+.anime_line2 {
+  margin-top: 10px;
+  padding: 5px 5px 5px 5px;
+  background-color: #023e8a;
+  width: 100%;
+}
+.anime_line3 {
+  margin-top: 10px;
+  padding: 5px 5px 5px 5px;
+  background-color: #0077b6;
+  width: 100%;
+}
+.anime_line4 {
+  margin-top: 10px;
+  padding: 5px 5px 5px 5px;
+  background-color: #0096c7;
+  width: 100%;
+}
+.anime_line5 {
+  margin-top: 10px;
+  padding: 5px 5px 5px 5px;
+  background-color: #00b4d8;
+  width: 100%;
+}
+
+/* .anime_dot {
+  margin-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 30px;
+  padding-bottom: 60px;
+  border: 1px solid whitesmoke;
+  border-radius: 50%;
+  margin: 50px 700px 50px 700px;
+  background-color: rgb(216, 1, 1);
+} */
+
+/* .anime_line6 {
+  margin-top: 10px;
+  padding: 5px 5px 5px 5px;
+  background-color: #48cae4;
+  width: 100%;
+}
+.anime_line7 {
+  margin-top: 10px;
+  padding: 5px 5px 5px 5px;
+  background-color: #90e0ef;
+  width: 100%;
+}
+.anime_line8 {
+  margin-top: 10px;
+  padding: 5px 5px 5px 5px;
+  background-color: #ade8f4;
+  width: 100%;
+}
+.anime_line9 {
+  margin-top: 10px;
+  padding: 5px 5px 5px 5px;
+  background-color: #caf0f8;
+  width: 100%;
+}
+.anime_line10 {
+  margin-top: 10px;
+  padding: 5px 5px 5px 5px;
+  background-color: #cff1f9;
+  width: 100%;
+} */

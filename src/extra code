@@ -1,0 +1,62 @@
+{/* <div data-aos="zoom-in" data-aos-duration="1000" className="main_image">
+        <img src="https://i.ibb.co/dkXDW6K/me.jpg" />
+      </div> */}
+      {/* <div className="header_op">
+        <div
+          data-aos="fade-up"
+          data-aos-duration="800"
+          className="anime_line1"
+        ></div>
+        <div
+          data-aos="fade-up"
+          data-aos-duration="900"
+          className="anime_line2"
+        ></div>
+        <div
+          data-aos="fade-up"
+          data-aos-duration="1000"
+          className="anime_line3"
+        ></div>
+        <div
+          data-aos="fade-up"
+          data-aos-duration="1100"
+          className="anime_line4"
+        ></div>
+
+        <div
+          data-aos="fade-up"
+          data-aos-duration="1200"
+          className="anime_line5"
+        ></div>
+      
+        <div
+          data-aos="fade-up"
+          data-aos-duration="1300"
+          className="anime_line6"
+        ></div>
+        <div
+          data-aos="fade-up"
+          data-aos-duration="1400"
+          className="anime_line7"
+        ></div>
+        <div
+          data-aos="fade-up"
+          data-aos-duration="1500"
+          className="anime_line8"
+        ></div>
+        <div
+          data-aos="fade-up"
+          data-aos-duration="1600"
+          className="anime_line9"
+        ></div>
+        <div
+          data-aos="fade-up"
+          data-aos-duration="1700"
+          className="anime_line10"
+        ></div>
+      </div>
+       <div
+       data-aos="flip-left"
+        data-aos-duration="120"
+        className="anime_dot"
+      ></div>  */}

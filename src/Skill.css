@@ -1,0 +1,20 @@
+.skill_set {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px 10px 10px 10px;
+  margin-left: 100px;
+  margin-right: 750px;
+  margin-top: 250px;
+  margin-bottom: 250px;
+}
+.gap_skill {
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  height: 50px;
+}
+.skill_container {
+  background: #ff8383;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
